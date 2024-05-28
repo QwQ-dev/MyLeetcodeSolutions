@@ -8,3 +8,5 @@ mod s0042_trapping_rain_water;
 mod s0003_longest_substring_without_repeating_characters;
 mod s0438_find_all_anagrams_in_a_string;
 mod s0560_subarray_sum_equals_k;
+mod s0239_sliding_window_maximum;
+mod s0076_minimum_window_substring;
