@@ -14,3 +14,4 @@ mod s0053_maximum_subarray;
 mod s0189_rotate_array;
 mod s0238_product_of_array_except_self;
 mod s0041_first_missing_positive;
+mod s0056_merge_intervals;
