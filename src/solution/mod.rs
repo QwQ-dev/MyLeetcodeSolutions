@@ -11,3 +11,4 @@ mod s0560_subarray_sum_equals_k;
 mod s0239_sliding_window_maximum;
 mod s0076_minimum_window_substring;
 mod s0053_maximum_subarray;
+mod s0189_rotate_array;
