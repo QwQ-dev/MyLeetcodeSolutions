@@ -15,3 +15,4 @@ mod s0189_rotate_array;
 mod s0238_product_of_array_except_self;
 mod s0041_first_missing_positive;
 mod s0056_merge_intervals;
+mod s0073_set_matrix_zeroes;
