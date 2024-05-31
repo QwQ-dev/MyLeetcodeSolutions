@@ -17,3 +17,4 @@ mod s0041_first_missing_positive;
 mod s0056_merge_intervals;
 mod s0073_set_matrix_zeroes;
 mod s0054_spiral_matrix;
+mod s0048_rotate_image;
