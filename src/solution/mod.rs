@@ -19,3 +19,4 @@ mod s0073_set_matrix_zeroes;
 mod s0054_spiral_matrix;
 mod s0048_rotate_image;
 mod s0240_search_a_2d_matrix_ii;
+mod s0206_reverse_linked_list;
