@@ -20,3 +20,4 @@ mod s0054_spiral_matrix;
 mod s0048_rotate_image;
 mod s0240_search_a_2d_matrix_ii;
 mod s0206_reverse_linked_list;
+mod s0234_palindrome_linked_list;
