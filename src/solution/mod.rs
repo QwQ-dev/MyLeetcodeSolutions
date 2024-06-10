@@ -24,3 +24,4 @@ mod s0234_palindrome_linked_list;
 mod s0021_merge_two_sorted_lists;
 mod s0002_add_two_numbers;
 mod s0019_remove_nth_node_from_end_of_list;
+mod s0024_swap_nodes_in_pairs;
