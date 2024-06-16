@@ -27,3 +27,4 @@ mod s0019_remove_nth_node_from_end_of_list;
 mod s0024_swap_nodes_in_pairs;
 mod s0025_reverse_nodes_in_k_group;
 mod s0148_sort_list;
+mod s0146_lru_cache;
