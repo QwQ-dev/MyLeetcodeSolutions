@@ -30,3 +30,4 @@ mod s0148_sort_list;
 mod s0146_lru_cache;
 mod s0094_binary_tree_inorder_traversal;
 mod s0104_maximum_depth_of_binary_tree;
+mod s0226_invert_binary_tree;
