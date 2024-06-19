@@ -33,3 +33,4 @@ mod s0104_maximum_depth_of_binary_tree;
 mod s0226_invert_binary_tree;
 mod s101_symmetric_tree;
 mod s0543_diameter_of_binary_tree;
+mod s102_binary_tree_level_order_traversal;
