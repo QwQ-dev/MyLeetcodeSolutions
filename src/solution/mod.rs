@@ -36,3 +36,4 @@ mod s0543_diameter_of_binary_tree;
 mod s102_binary_tree_level_order_traversal;
 mod s108_convert_sorted_array_to_binary_search_tree;
 mod s0098_validate_binary_search_tree;
+mod s0230_kth_smallest_element_in_a_bst;
