@@ -42,3 +42,4 @@ mod s0114_flatten_binary_tree_to_linked_list;
 mod s105_construct_binary_tree_from_preorder_and_inorder_traversal;
 mod s0437_path_sum_iii;
 mod s236_lowest_common_ancestor_of_a_binary_tree;
+mod s124_binary_tree_maximum_path_sum;
